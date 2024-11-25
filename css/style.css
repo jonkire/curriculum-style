@@ -1,0 +1,48 @@
+html {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: darkslateblue;
+}
+
+header img {
+    width: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+    background-color: lightskyblue;
+}
+
+h1, h2, a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+h1 a {
+    color: white;
+}
+
+h2 a {
+    color: lightskyblue;
+}
+
+h1:hover a, h2:hover a {
+    color: darkblue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer p {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+
